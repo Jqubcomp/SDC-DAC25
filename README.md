@@ -45,6 +45,8 @@ To learn more about the dataset and how to visualize it, please refer to this [t
 
 ## The Framework
 ![Framework](./imgs/overview.png)
+We follow the framework designed in "[A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset](https://arxiv.org/abs/2501.00941)" (shown above) to build the framework.
+
 
 ## Training
 ### Encoder-Decoder Training
