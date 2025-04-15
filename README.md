@@ -110,7 +110,8 @@ Therefore, **only Python-based solutions will be accepted**.
 
 All package versions must strictly follow the specifications in the **Prerequisites** section and the provided `requirements.txt` file. Additional python-based packages can be used but please make sure the version of all packages can be accomodated on both HPC (for performance evaluation purpose) and edge device (for latency evaluation purpose).
 
-For latency evaluation purposes, the system running on the Raspberry Pi **must be** Ubuntu 23.04 (64-bit) with an aarch64 architecture.  
+The Raspberry Pi 4 running Ubuntu 23.04 (64-bit) with an aarch64 architecture will be used for latency evaluation. 
+Please ensure that your solution is compatible with this environment.
 
 
 We will run the provided `generation.py` script to generate data for each submitted solution.  
