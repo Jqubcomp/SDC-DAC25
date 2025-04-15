@@ -2,9 +2,11 @@
 
 ## Introduction
 
-The On-Device Multi-modal Generative AI for Science Contest at [DAC'25](https://www.dac.com/) is a challenging, 
+The [On-Device Multi-modal Generative AI for Science Contest](https://jqubcomp.github.io/dac-2025-comp/Contest.html) at [DAC'25](https://www.dac.com/) is a challenging, 
 multi-month research and development competition focused on real-world scientific problems that require deploying multi-modal generative AI algorithms on edge devices. 
 It is open to teams from around the world. Winning teams will be invited to attend [DAC'25](https://www.dac.com/) to receive their awards.
+
+[Register here](https://forms.gle/pUEuMGqeQhiviJCP8).
 
 This is a demo repo for a base implementation of multi-modal generative model.
 This implementation is based on the "[A Novel Diffusion Model for Pairwise Geoscience Data Generation with Unbalanced Training Dataset](https://arxiv.org/abs/2501.00941)",
